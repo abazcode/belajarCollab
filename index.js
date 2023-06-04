@@ -1,3 +1,3 @@
 const coba = 1;
 
-// testing manual merge
+// test conflict from testBranch3
